@@ -1,8 +1,8 @@
 // EvoLib library for EvoChess project
 package EvoLib
 
-func Version() string {
+func Версия1() string {
 
-	return "0.3b"
+	return "0.31b"
 
 }
